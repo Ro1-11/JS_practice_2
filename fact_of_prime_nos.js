@@ -6,16 +6,7 @@ function declaration can look like - function prime(1,100).*/
 
 function prime(start,end)
 {
-    // if (start=0)
-    //     {
-    //         console.log("0:1");
-    //         console.log("1:1");
-    //     }
-
-    //     if (start=1)
-    //     {
-    //         console.log("1:1");
-    //     }
+    
     for(i=start;i<=end;i++)
     {
 
